@@ -1,2 +1,1 @@
-console.log('hello 3')
-console.log('hey 1')
+console.log('Version 1')
